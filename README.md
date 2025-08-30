@@ -19,5 +19,9 @@ A sleek front-end clone of the Spotify web player, crafted using pure HTML and C
 - **Google Fonts**: Clean typography using Montserrat or similar.
 - **Font Awesome**: Icon library for navigation and player controls.
 
+### WEBSITE-IMAGE-PREVIEW
+<img width="1904" height="941" alt="Screenshot 2025-08-30 120033" src="https://github.com/user-attachments/assets/ac370536-943f-4eda-bd78-beb1ad216f40" />
+
+
 
 
